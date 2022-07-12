@@ -1,6 +1,6 @@
 # Olá, Mundo!
  Primeiro repositório do curso Git e GitHub
 
- Repositório criado durnte uma aula ou vivo não gravada!
+ Repositório criado durante uma aula ou vivo não gravada!
  
- Esta linha adicinei direto do site.
+ Esta linha adicinei direto do site. Muito bacana!
